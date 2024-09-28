@@ -66,4 +66,4 @@ cd <nome-do-repositorio>
 ~~***GET***~~
 - ~~http://localhost:8082/emprestimos~~
 
-<sub>Devido as mudanças do Publisher e Listener do Rabbit o get parou de funcionar</sub>
+<sub>Devido as mudanças do Publisher e Listener do Rabbit o GET parou de funcionar</sub>
