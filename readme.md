@@ -4,7 +4,7 @@
 
 Antes de começar, você precisará ter instalado:
 - [Rabbit](https://www.rabbitmq.com/docs/download)
-- 
+  
 ## Clonando o Projeto
 
 Clone este repositório em sua máquina local:
